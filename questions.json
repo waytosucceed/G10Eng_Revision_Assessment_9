@@ -1,0 +1,537 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+  
+  {
+    "heading": "Conjunctive Adverbs",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which word in this line from Passage 3 is a conjunctive adverb?<br><i>\"Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies.\"</i>",
+        "options": [
+          {
+            "text": "under"
+          },
+          {
+            "text": "and"
+          },
+          {
+            "text": "however"
+          },
+          {
+            "text": "smallest"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 2,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Fill in the blank with the conjunctive adverb that fits the relationship between the two ideas.<br><i>\"The chalk lies beneath most of England; _______, few people have ever considered how it came to be there.\"</i>",
+        "options": [
+          {
+            "text": "therefore"
+          },
+          {
+            "text": "yet"
+          },
+          {
+            "text": "moreover"
+          },
+          {
+            "text": "nevertheless"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 3,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Fill in the blank with the conjunctive adverb that fits the relationship between the two ideas.<br><i>\"These creatures live only in deep water; _______, the ground beneath this hall was once a sea floor.\"</i>",
+        "options": [
+          {
+            "text": "however"
+          },
+          {
+            "text": "consequently"
+          },
+          {
+            "text": "meanwhile"
+          },
+          {
+            "text": "otherwise"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 4,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "A teacher asks the class what relationship the underlined conjunctive adverb shows in this line from Passage 2. What should they answer?<br><i>\"<u>Moreover</u>, borings have proved it to lie, in places, more than a thousand feet in thickness.\"</i>",
+        "options": [
+          {
+            "text": "Contrast, because the second fact disagrees with the first"
+          },
+          {
+            "text": "Result, because the thickness is caused by the extent"
+          },
+          {
+            "text": "Time, because one measurement was taken after the other"
+          },
+          {
+            "text": "Addition, because a further piece of evidence is being added to the one before it"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 5,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Three of the underlined words below are conjunctive adverbs. Which one is not?",
+        "options": [
+          {
+            "text": "The evidence is plain; <u>therefore</u> the conclusion cannot be avoided."
+          },
+          {
+            "text": "The chalk is soft, <u>but</u> it has endured for millions of years."
+          },
+          {
+            "text": "The creatures are minute; <u>indeed</u>, a thousand would rest upon a pin’s head."
+          },
+          {
+            "text": "Some find the figure unwelcome; <u>nevertheless,</u> it is what the evidence gives."
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Proper Punctuation",
+    "questions": [
+      {
+        "questionNo": 6,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which of the following sentences is correctly punctuated?",
+        "options": [
+          {
+            "text": "The chalk lies beneath Norwich, however few residents have ever thought about it."
+          },
+          {
+            "text": "The chalk lies beneath Norwich; however, few residents have ever thought about it."
+          },
+          {
+            "text": "The chalk lies beneath Norwich however, few residents have ever thought about it."
+          },
+          {
+            "text": "The chalk lies beneath Norwich, however, few residents have ever thought about it."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Where should a comma be placed in the following sentence?<br><i>\"Although the chalk appears uniform to the naked eye it is composed of countless shells.\"</i>",
+        "options": [
+          {
+            "text": "After \"although\""
+          },
+          {
+            "text": "After \"appears\""
+          },
+          {
+            "text": "After \"eye\""
+          },
+          {
+            "text": "No comma is needed anywhere in the sentence"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which of the following uses the apostrophe correctly?",
+        "options": [
+          {
+            "text": "A thousand of the creatures would rest upon a pins head."
+          },
+          {
+            "text": "A thousand of the creatures would rest upon a pins’ head."
+          },
+          {
+            "text": "A thousand of the creature’s would rest upon a pin’s head."
+          },
+          {
+            "text": "A thousand of the creatures would rest upon a pin’s head."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 9,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which of the following is correctly punctuated?",
+        "options": [
+          {
+            "text": "Huxley reached one conclusion: the ground beneath the hall was once a sea floor."
+          },
+          {
+            "text": "Huxley reached one conclusion, the ground beneath the hall was once a sea floor."
+          },
+          {
+            "text": "Huxley reached one conclusion; the ground beneath the hall, was once a sea floor."
+          },
+          {
+            "text": "Huxley reached one conclusion the ground beneath the hall was once a sea floor."
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 10,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which revision correctly fixes the punctuation in this sentence?<br><i>\"These are not conjectures they are measurements taken carefully.\"</i>",
+        "options": [
+          {
+            "text": "These are not conjectures, they are measurements taken carefully."
+          },
+          {
+            "text": "These are not conjectures they are measurements, taken carefully."
+          },
+          {
+            "text": "These are not conjectures; they are measurements, taken carefully."
+          },
+          {
+            "text": "These are not, conjectures they are measurements taken carefully."
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Words From Context",
+    "questions": [
+      {
+        "questionNo": 11,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Using the context of Passage 3, what does the word \"infinitesimal\" most likely mean in the following sentence:<br><i>\"Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head.\"</i>",
+        "options": [
+          {
+            "text": "Extremely ancient"
+          },
+          {
+            "text": "Extremely small"
+          },
+          {
+            "text": "Extremely fragile"
+          },
+          {
+            "text": "Extremely numerous"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 12,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Using the context of Passage 3, what does the word \"homogeneous\" most likely mean in the following sentence:<br><i>\"The apparently homogeneous mass resolves itself into a multitude of minute bodies.\"</i>",
+        "options": [
+          {
+            "text": "Uniform throughout, appearing to be all one substance"
+          },
+          {
+            "text": "Extremely heavy for its size"
+          },
+          {
+            "text": "Recently formed and still soft"
+          },
+          {
+            "text": "Arranged in visible layers"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 13,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Using the context of Passage 2, what does the word \"conjectures\" most likely mean in the following sentence:<br><i>\"These are not conjectures. They are measurements, taken carefully.\"</i>",
+        "options": [
+          {
+            "text": "Official records kept by the government"
+          },
+          {
+            "text": "Mistakes made by careless observers"
+          },
+          {
+            "text": "Guesses made without firm evidence"
+          },
+          {
+            "text": "Detailed drawings of the rock beds"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 14,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Two students discuss the word \"prodigious\" in Passage 5.<br><i>\"A thousand feet of them is a prodigious accumulation.\"<br>&bull;&nbsp;&nbsp;&nbsp;Aisha says it means enormous, since a thousand feet of microscopic shells is a vast quantity.<br>&bull;&nbsp;&nbsp;&nbsp;Farid says it means unnatural, since something so strange could not occur on its own.</i><br>Which student is correct?",
+        "options": [
+          {
+            "text": "Only Farid"
+          },
+          {
+            "text": "Both students, since the word carries both meanings here"
+          },
+          {
+            "text": "Neither student, since the word describes the speed of the process"
+          },
+          {
+            "text": "Only Aisha"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 15,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Using the context of Passage 6, which word could replace \"interrogate\" without changing the meaning?<br><i>\"A man who learns to interrogate the commonest object at his feet has acquired the whole method of science.\"</i>",
+        "options": [
+          {
+            "text": "purchase"
+          },
+          {
+            "text": "question"
+          },
+          {
+            "text": "admire"
+          },
+          {
+            "text": "describe"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Non-Fiction Analysis Part 1",
+    "questions": [
+      {
+        "questionNo": 16,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which language signal most clearly identifies the text type of this line from Passage 2?<br><i>\"The chalk extends under the greater part of England and crosses the Channel into France and Germany.\"</i>",
+        "options": [
+          {
+            "text": "\"England\" and \"France\" — real place names indicating narrative non-fiction recounting a journey"
+          },
+          {
+            "text": "\"the greater part\" — an evaluative judgment indicating argumentative non-fiction"
+          },
+          {
+            "text": "\"crosses the Channel\" — sensory description indicating descriptive non-fiction"
+          },
+          {
+            "text": "\"extends\" and \"crosses\" — neutral factual verbs stating verifiable information, indicating expository non-fiction"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 17,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "What is the dominant purpose of the text across all six passages?",
+        "options": [
+          {
+            "text": "To narrate the events of a geological expedition undertaken in Norfolk"
+          },
+          {
+            "text": "To inform the reader what chalk is made of and what it proves about the earth’s history"
+          },
+          {
+            "text": "To describe the appearance of the Norfolk landscape in vivid sensory detail"
+          },
+          {
+            "text": "To persuade the reader that scientists deserve greater respect than they receive"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 18,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Read the following line from Passage 6.<br><i>\"That, gentlemen, is within the reach of every one of you.\"</i><br>What does this line tell us about the audience Huxley is addressing?",
+        "options": [
+          {
+            "text": "A live audience of ordinary men, whom he assumes have no scientific training"
+          },
+          {
+            "text": "A gathering of professional geologists who already understand his evidence"
+          },
+          {
+            "text": "A group of students enrolled formally at a university"
+          },
+          {
+            "text": "A readership of children, addressed simply because of their age"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 19,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "What tone does the underlined word carry in this line from Passage 5?<br><i>\"But the chalk is <u>indifferent</u> to our preferences.\"</i>",
+        "options": [
+          {
+            "text": "Apologetic, as Huxley regrets that his findings may upset people"
+          },
+          {
+            "text": "Despairing, as Huxley doubts anyone will accept what he has said"
+          },
+          {
+            "text": "Firm and faintly severe, as Huxley reminds the audience that evidence does not bend to wishes"
+          },
+          {
+            "text": "Playful, as Huxley jokes about the feelings of a piece of stone"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 20,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which of the following lines contains the clearest evaluative language signal?",
+        "options": [
+          {
+            "text": "\"Borings have proved it to lie, in places, more than a thousand feet in thickness.\""
+          },
+          {
+            "text": "\"These creatures live only in the depths of the sea.\""
+          },
+          {
+            "text": "\"The chalk extends under the greater part of England.\""
+          },
+          {
+            "text": "\"It is, therefore, no trifling matter.\""
+          }
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "heading": "Non-Fiction Analysis Part 2",
+    "questions": [
+      {
+        "questionNo": 21,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which rhetorical appeal is dominant in Passage 4?",
+        "options": [
+          {
+            "text": "Pathos, because the idea of a vanished ocean is emotionally striking"
+          },
+          {
+            "text": "Logos, because a conclusion is drawn step by step from stated evidence"
+          },
+          {
+            "text": "Ethos, because Huxley refers to his own standing as a scientist"
+          },
+          {
+            "text": "None of these, because the passage simply reports a fact"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 22,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which technique is used in this line from Passage 3, and what effect does it create?<br><i>\"It is a cemetery, and every grain of it was once alive.\"</i>",
+        "options": [
+          {
+            "text": "Rhetorical question, because the reader is invited to consider what chalk really is"
+          },
+          {
+            "text": "Antithesis, because two opposing ideas are placed in parallel structure"
+          },
+          {
+            "text": "Metaphor, because the chalk bed is called a cemetery, making the reader feel the scale of the dead it contains"
+          },
+          {
+            "text": "Ethos, because the comparison demonstrates Huxley’s knowledge of burial practices"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 23,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Read the following two statements from the text.<br><i>Statement 1: \"Borings have proved it to lie, in places, more than a thousand feet in thickness.\"<br>Statement 2: \"It is, therefore, no trifling matter.\"</i><br>Which of the following correctly identifies the nature of each statement?",
+        "options": [
+          {
+            "text": "Statement 1 is a fact. Statement 2 is an opinion."
+          },
+          {
+            "text": "Statement 1 is an opinion. Statement 2 is a fact."
+          },
+          {
+            "text": "Both statements are facts."
+          },
+          {
+            "text": "Both statements are opinions."
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 24,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Which of the following best explains how bias operates in this line from Passage 5?<br><i>\"Some will find that figure unwelcome. But the chalk is indifferent to our preferences.\"</i>",
+        "options": [
+          {
+            "text": "The line is unbiased, because Huxley acknowledges that some people will disagree with him"
+          },
+          {
+            "text": "The line is unbiased, because it reports two positions without judging either of them"
+          },
+          {
+            "text": "The line contains bias because Huxley refuses to name the people who disagree with him"
+          },
+          {
+            "text": "Opposition is characterised as mere \"preference\" and set against the chalk itself, so disagreement is dismissed as feeling rather than answered as argument"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 25,
+        "story": "<b>On a Piece of Chalk</b><br>Adapted from a lecture by T. H. Huxley, 1868<br><br><b>Passage 1</b><br>If a well were sunk at our feet in the midst of the city of Norwich, the diggers would very soon find themselves at work in that white substance almost too soft to be called rock, with which we are all familiar as chalk. Not only here, but over the whole county and far beyond it, this same bed lies beneath the soil. It is, therefore, no trifling matter.<br><br><b>Passage 2</b><br>The chalk extends under the greater part of England and crosses the Channel into France and Germany. Moreover, borings have proved it to lie, in places, more than a thousand feet in thickness. These are not conjectures. They are measurements, taken carefully, and any man who doubts them may go and take them again for himself.<br><br><b>Passage 3</b><br>Place the smallest fragment under a microscope, however, and the apparently homogeneous mass resolves itself into a multitude of minute bodies. Each is the shell of a creature so infinitesimal that a thousand might rest upon a pin’s head. The chalk, in short, is not stone at all. It is a cemetery, and every grain of it was once alive.<br><br><b>Passage 4</b><br>Now, these creatures live only in the depths of the sea. Consequently, the ground upon which this hall is built was once the floor of an ocean. I am aware that the statement sounds extravagant; nevertheless, it follows necessarily from the evidence, and no other explanation accounts for what the microscope plainly shows.<br><br><b>Passage 5</b><br>How long, then, did the making of this bed require? The creatures fall slowly, and a thousand feet of them is a prodigious accumulation. Reckon it as you please: the answer runs into millions of years. Some will find that figure unwelcome. But the chalk is indifferent to our preferences, and it lies there whether we are willing to read it or not.<br><br><b>Passage 6</b><br>I have taken this humble stone, therefore, and asked it a few questions. It has answered them. A man who learns to interrogate the commonest object at his feet has acquired the whole method of science, and he needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.",
+        "question": "Huxley never states directly that anyone may become a scientist. What can be inferred from the closing lines of Passage 6?<br><i>\"He needs no laboratory and no learning beyond attention. That, gentlemen, is within the reach of every one of you.\"</i>",
+        "options": [
+          {
+            "text": "That the audience should enrol at a university in order to pursue the subject properly"
+          },
+          {
+            "text": "That scientific understanding requires no privilege or equipment, and is therefore open to working men who have neither"
+          },
+          {
+            "text": "That laboratories are useless and should be closed"
+          },
+          {
+            "text": "That Huxley regrets having spent his own career in a laboratory"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  }
+
+
+
+                 
+      
+  ]
+}
